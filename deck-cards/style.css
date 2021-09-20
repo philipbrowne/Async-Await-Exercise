@@ -1,0 +1,23 @@
+body {
+  background-color: green;
+  color: white;
+}
+
+#draw-btn {
+  font-family: inherit;
+  border-radius: 5%;
+}
+
+#card-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.draw-card {
+  position: fixed;
+  top: 20%;
+  left: 46%;
+}
